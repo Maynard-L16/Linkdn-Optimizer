@@ -1,0 +1,6 @@
+[browser]
+# Do not send Streamlit usage statistics - the app runs fully locally.
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 10   # MB; enough for any resume or LinkedIn PDF

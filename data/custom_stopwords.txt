@@ -1,0 +1,64 @@
+# Domain stop-words: words that are very common in job descriptions and
+# resumes but carry little meaning about the actual skills required.
+# Removing them stops TF-IDF from ranking boilerplate ("candidate", "looking")
+# as "important keywords". One word per line; lines starting with # are ignored.
+# Compared against the lowercased token AND its lemma.
+able
+ability
+also
+apply
+candidate
+candidates
+company
+desired
+e.g
+etc
+excellent
+experience
+experienced
+good
+great
+hire
+hiring
+i.e
+including
+job
+join
+knowledge
+like
+looking
+must
+need
+new
+opportunity
+per
+plus
+position
+preferred
+proficiency
+proficient
+related
+requirement
+requirements
+required
+responsibility
+responsibilities
+role
+seeking
+should
+skill
+skills
+strong
+understanding
+use
+using
+various
+want
+well
+will
+within
+work
+working
+would
+year
+years

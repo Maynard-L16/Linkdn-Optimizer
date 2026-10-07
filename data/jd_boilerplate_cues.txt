@@ -1,0 +1,73 @@
+# Cue phrases for job-description BOILERPLATE: legal, benefits, privacy and
+# hiring-process text that is not a requirement of the role. A job-description
+# sentence containing any of these phrases (case-insensitive) is removed before
+# analysis, so that it cannot become an "important keyword" or a "requirement".
+# Found while testing on real postings (equal-opportunity statements were being
+# ranked as requirements). One phrase per line; # starts a comment.
+equal opportunity
+equal employment
+without regard to
+regardless of
+national origin
+sexual orientation
+gender identity
+gender expression
+protected veteran
+veteran status
+genetic information
+marital status
+disability
+disabilities
+accommodation
+criminal histor
+background check
+e-verify
+visa sponsorship
+sponsor visas
+immigration
+privacy policy
+privacy notice
+applicant privacy
+personal data
+know your rights
+department of labor
+pay transparency
+salary range
+base salary
+pay range
+compensation
+total rewards
+401(k)
+health insurance
+dental
+paid time off
+parental leave
+benefits
+perks
+stipend
+recruitment fraud
+recruiting scam
+phishing
+unsolicited resume
+staffing agenc
+we encourage you to apply
+even if you don't
+don't meet every
+imposter syndrome
+underrepresented
+inclusive workplace
+diverse and inclusive
+diversity, equity
+diversity and inclusion
+hybrid policy
+in-office
+in office
+relocation
+candidates' ai usage
+use of ai in our hiring
+your safety matters
+how we're different
+click any links
+don't click
+do not click
+screen reader

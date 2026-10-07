@@ -1,0 +1,13 @@
+# Python 3.10 - 3.12 recommended (tested on 3.11).
+# Install:   pip install -r requirements.txt
+# Then once: python download_models.py      (spaCy model, NLTK stop-words, Sentence-BERT)
+
+streamlit>=1.50,<2          # web UI
+spacy>=3.8,<3.9             # tokenization, POS tagging, lemmatization, NER
+nltk>=3.9                   # stop-word list
+scikit-learn>=1.5           # reference TfidfVectorizer (tests prove our TF-IDF matches it)
+sentence-transformers>=3.0  # pretrained Sentence-BERT embeddings (pulls in PyTorch)
+numpy>=1.26
+pandas>=2.2
+pypdf>=5.0                  # PDF text extraction
+pytest>=8.0                 # tests
